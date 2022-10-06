@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+https://www.codewars.com/users/Shaustruk/badges/large
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
